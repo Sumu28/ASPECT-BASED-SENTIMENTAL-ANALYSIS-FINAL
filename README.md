@@ -15,14 +15,14 @@ You *must* do the following:
 2 - There is no need to rename your fork but if you wish to do so please use
      the format:
 
-     2023-mcm-username
+     2026-mcm-username
 
 replacing `username` with your School of Computing login name.
 
 For example, if Stephen Blott were to be doing an MCM practicum, he would rename
 his repo as:
 
-     2023-mcm-sblott
+     2026-mcm-sblott
 
 
 You should also update the *Project description*.
